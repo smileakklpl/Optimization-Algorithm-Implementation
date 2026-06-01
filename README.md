@@ -1,7 +1,7 @@
 # Optimization-Algorithm-Implementation
 Implement four optimization algorithms
 
-使用四種演算法來尋找三個已知測試函數的最小值，並將結果進行比較與分析。
+使用四種演算法(Random Optimization, Improved Random Optimization, Particle Swarm Optimization and Whale Optimization Algorithm)來尋找三個已知測試函數(Rastrigin, Rosenbrock and Sphere)的最小值，並將結果進行比較與分析。
 
 
 ## 簡介
